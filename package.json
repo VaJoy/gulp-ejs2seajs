@@ -1,0 +1,19 @@
+{
+  "name": "gulp-ejs2seajs",
+  "version": "1.0.1",
+  "description": "Compile ejs files to seajs module with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaJoy/gulp-ejs2seajs.git"
+  },
+  "author": "vajoylarn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VaJoy/gulp-ejs2seajs/issues"
+  },
+  "homepage": "https://github.com/VaJoy/gulp-ejs2seajs#readme"
+}

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<div id="container"></div>
+<textarea id="debug" cols="100" rows="30"></textarea>
+<script type="text/javascript" src="./js/lib/sea.js"></script>
+<script type="text/javascript">
+    seajs.config({
+        base: '/src/js'
+    });
+    seajs.use('modules/my-module1/module1', function (module1) {
+        module1.render();
+    });
+</script>
+</body>
+</html>
