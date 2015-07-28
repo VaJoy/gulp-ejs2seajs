@@ -41,4 +41,5 @@ gulp.task('ejs2seajs', function () {
 
 Replace it to [grunt-ejs2seajs](https://github.com/charmingzuo/grunt-ejs2seajs) while using grunt.
 
+## LICENSE
 [MIT](http://en.wikipedia.org/wiki/MIT_License) @ VaJoy Larn
