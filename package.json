@@ -1,6 +1,6 @@
 {
   "name": "gulp-ejs2seajs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compile ejs files to seajs module with gulp",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "author": "vajoylarn",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   },

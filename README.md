@@ -23,6 +23,8 @@ gulp.task('ejs2seajs', function () {
 ```
 > you can also read the [demo](https://github.com/VaJoy/gulp-ejs2seajs/tree/master/demo) for details.
 
-## License
+## Grunt
+
+Replace it to [grunt-ejs2seajs](https://github.com/charmingzuo/grunt-ejs2seajs) while using grunt.
 
 [MIT](http://en.wikipedia.org/wiki/MIT_License) @ VaJoy Larn
