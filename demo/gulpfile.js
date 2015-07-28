@@ -6,7 +6,7 @@ var ejs2seajs = require('gulp-ejs2seajs');
 
 gulp.task('ejs2seajs', function () {
     gulp.src('./src/js/**/tpls')
-        .pipe(ejs2seajs())
+        .pipe(ejs2seajs({ tplname: 'sth.js' }))
         .pipe(gulp.dest('./src/'));
 });
 

@@ -21,6 +21,12 @@ gulp.task('ejs2seajs', function () {
         .pipe(gulp.dest('./src/'));
 });
 ```
+## Options
+
+###tplname
+
+Optional, name of the files created finally. Default to `tpls.js` if ignore this option.
+
 > you can also read the [demo](https://github.com/VaJoy/gulp-ejs2seajs/tree/master/demo) for details.
 
 ## Grunt

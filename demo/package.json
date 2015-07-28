@@ -8,8 +8,8 @@
   },
   "author": "vajoylarn",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-ejs2seajs": "^1.0.4"
+    "gulp-ejs2seajs": "^1.0.5"
   }
 }
