@@ -1,5 +1,5 @@
 # [gulp](https://github.com/wearefractal/gulp)-ejs2seajs
-> debug and translate ejs templets into js files in CMD mode
+> translate ejs templets into js files in CMD mode
 
 ## Install
 
